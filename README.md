@@ -16,7 +16,7 @@ This project offers an API to retrieve the most recent videos from YouTube, sort
 1. Clone the repository by executing the following command:
 
    ```
-   git clone https://github.com/irsayvid/YTSearchAutomation.git
+   git clone (https://github.com/aditiakhauri/YOUTUBE-SEARCH-AUTOMATION.git)
    ```
 
 2. Learn how to [generate a YouTube Data API key](./DOCUMENTATION.md#GenerateYouTubedataAPIkey) and save the API key(s) in the `apikeys.json` file.
